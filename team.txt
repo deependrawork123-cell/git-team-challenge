@@ -1,2 +1,4 @@
 Git Team Collaboration Project
-Status: Updated by Student 1
+
+Status: Updated by Student 1 and Student 2
+
